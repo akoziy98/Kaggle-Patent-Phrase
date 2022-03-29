@@ -1,0 +1,5 @@
+.idea/
+.venv/
+.models/
+vectorized_dumps/
+ref_patent_bert.ipynb
